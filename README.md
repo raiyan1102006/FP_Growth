@@ -1,5 +1,5 @@
 # FP-Growth
-FP Growth is a popular algorithm for mining frequent itemsets from transaction databases. In this project, I have implemented the algorithm as specified in Chapter 6 of Han et al.’s book [1].
+FP-growth is a popular algorithm for mining frequent itemsets from transaction databases. In this project, I have implemented the algorithm as specified in Chapter 6 of Han et al.’s book [1].
 
 ## What's in this Repository
 This repository contains the adult dataset that I've used to test the FP Growth algorithm, the python code file, and a project report file. The Report.pdf file details my data preprocessing steps and the data structures I've used.
