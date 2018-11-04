@@ -10,12 +10,14 @@ I have used Python 3.6.3 to develop and test the code, and have used popular lib
 Once the libraries and environments are set up, the code can by run by executing 
 
 ```
-python FP_Growth.py
+python FP_growth.py
 ```
 
 ## Implementation
 
-The program takes the dataset and min_sup (the minimum support threshold) as the input; and gives the frequent itemsets and their supports as the output. I have chosen a support of 23%. The algorithmic details can be found in [1], while the implementation details can be found in the [Report.pdf](https://github.com/raiyan1102006/Apriori/blob/master/Report.pdf) file.
+The program takes the dataset and min_sup (the minimum support threshold) as the input; and gives the frequent itemsets and their supports as the output. 
+
+I have chosen a support of 23%. The algorithmic details can be found in [1], while the implementation details can be found in the [Report.pdf](https://github.com/raiyan1102006/Apriori/blob/master/Report.pdf) file.
 
 ## References
 [1] Jiawei Han, Jian Pei, and Micheline Kamber. 2011. *Data Mining: Concepts and Techniques*. Elsevier.
